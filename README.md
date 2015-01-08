@@ -1,2 +1,1 @@
-Musica
-======
+This is an ongoing Android project.
